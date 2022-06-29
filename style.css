@@ -1,0 +1,14 @@
+body {
+  background-image: url('https://s.isanook.com/tr/0/ui/283/1419037/5_1579069494.jpg');
+  background-repeat : no-repeat, repeat-x;
+  font-family: 'Kanit', sans-serif;
+}
+
+#mainpage {width: 1024px; margin: 0 auto;}
+  header
+  {
+    background-color: black;
+    color: white;
+    height: 70px;
+    padding: 10px;
+  }
