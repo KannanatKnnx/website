@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://paiduaykan.com/76_province/east/chanthaburi/pic/taluang1.jpg');
+    background-image: url('https://s359.kapook.com/pagebuilder/e6131c4f-a93f-4a76-abfb-6c250a3998ae.jpg');
     background-repeat: repeat;
     background-size: cover;
     font-family: 'Fahkwang', sans-serif;
@@ -41,4 +41,9 @@ headname1
 background-image: url("image/chantaburi-cover.jpeg");
 height: 320px;
 padding:auto;
+}
+
+.maps{
+  border: 1px solid rgb(255, 146, 146);
+  height: 300px;
 }
