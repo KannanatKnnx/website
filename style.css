@@ -39,4 +39,6 @@ headname1
 
 .graphic{
 background-image: url("image/chantaburi-cover.jpeg");
+height: 320px;
+padding:auto;
 }
