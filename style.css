@@ -1,8 +1,8 @@
 body {
-  background-image: url('https://img.freepik.com/free-vector/minimalist-background-with-leaves_23-2148909131.jpg?w=2000');
+  background-image: url('https://images8.alphacoders.com/697/697289.jpg%27);
   background-repeat: repeat;
   background-size: cover;
-  font-family: 'Fahkwang', sans-serif;
+  font-family: 'Kanit', sans-serif;
 }
 
 header
@@ -35,4 +35,8 @@ footer {
 headname1
 {
   color: rgb(255, 255, 255);
+}
+
+.graphic{
+background-image: url("image/chantaburi-cover.jpeg");
 }
