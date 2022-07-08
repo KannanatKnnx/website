@@ -52,3 +52,8 @@ padding:auto;
   background-color: white;
   padding: 10px;
 }
+
+.img{
+  width: 190px;
+  border-radius: 10px;
+}
