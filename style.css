@@ -1,6 +1,6 @@
 body {
     background-image: url('https://img.freepik.com/free-photo/chanthaburi-river-classical-village-near-river-chanthaburi-old-town-waterfront-landmark-with-old_387864-7890.jpg?w=2000');
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Kanit', sans-serif;
   }
